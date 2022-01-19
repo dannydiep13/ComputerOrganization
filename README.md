@@ -1,2 +1,2 @@
 # ComputerOrganization
-Spring 2022 - San Jacinto College
+Spring 2022
